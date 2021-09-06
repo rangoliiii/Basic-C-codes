@@ -1,9 +1,5 @@
 /*Write a program to find
  minimum of three numbers
-
- Name: Rangoli Dhawan
- Roll number: 53
- Section: B
  */
 
 #include<stdio.h>
